@@ -43,7 +43,7 @@ Implementing the math function sqrt from the Linear Algebra Library
 - **squared_difference_accumualate** - Squared Difference Accumulate Using Vivado High-Level Synthesis
 This simple example shows how to use Vivado HLS to code a "Squared Difference Accumulate" function and ensure the new squaring MUX feature within the UltraScale DSP48E2
 
-- **MatMul
+- **MatMul** -
 
 ## Vision
 - **img_histEq** - Image Histogram Equalization and HLS Optimizations.
