@@ -30,6 +30,7 @@ Open Source HLx Examples
 - **ssr_fir** - Super Sample Rate FIR (data rate > clock rate) Implementation using Vivado HLS
   This project describes the implementation of the super sample rate (SSR) filter – where the sample data rate is greater than the clock rate using Vivado HLS tool.
 
+- **Adaptive_Filter** - LMS designs
 ## Math 
 - **atan2_cordic** - Linear Algebra Library: Atan2() Example. 
 Implementing the math function atan2 from the Linear Algebra Library 
